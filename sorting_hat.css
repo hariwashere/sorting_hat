@@ -1,0 +1,35 @@
+html {
+  background: url(background.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#main-canvas {
+    width: 100%
+}
+
+#sorting-hat {
+    margin-left: 40%;
+    float: left;
+}
+
+.roulette {
+    margin-right: 42%;
+    float: right;
+}
+
+.team-size {
+    position: absolute;
+}
+
+.team-count {
+  font-size: 24;
+  color: white;
+  margin-left: 20;
+}
+
+.banner {
+  margin-bottom: 10;
+}
